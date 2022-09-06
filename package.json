@@ -1,0 +1,19 @@
+{
+  "name": "multiply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.23.0",
+    "prettier": "^2.7.1"
+  }
+}
